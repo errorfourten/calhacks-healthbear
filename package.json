@@ -12,10 +12,14 @@
     "expo": "~46.0.16",
     "expo-status-bar": "~1.4.0",
     "react": "18.0.0",
-    "react-native": "0.69.6"
+    "react-native": "0.69.6",
+    "expo-sensors": "~11.4.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "@types/react": "^18.0.21",
+    "@types/react-native": "^0.70.4",
+    "typescript": "^4.8.4"
   },
   "private": true
 }
